@@ -1,3 +1,5 @@
+import React from 'react';
+
 export const jokes = [
   {
     id: 'user01',
